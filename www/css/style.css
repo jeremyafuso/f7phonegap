@@ -14,9 +14,9 @@ body {
   -webkit-user-select: none;
   /* prevent copy paste, to allow, change 'none' to 'text' */ }
 
-* {
-  outline: 1px solid red;
-}
+/** {*/
+  /*outline: 1px solid red;*/
+/*}*/
 
 .demo-card-header-pic .card-header {
   height: 40vw;
